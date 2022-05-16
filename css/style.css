@@ -22,7 +22,7 @@ body {
 
 /* Title CSS */
 .title {
-  background-color: var(--primary-color);
+  background-color: red;
   text-align: center;
   font-size: 1.2em;
   padding-block: 0.5em;
